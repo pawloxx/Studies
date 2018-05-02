@@ -3,7 +3,7 @@ ZADANIE 2
 Dana jest liczba całkowita dodatnia number = 20730906, Oblicz sumę cyfr tej liczby.
 '''
 
-number = 35802357196
+number = 20730906
 tmpNumber = number
 sumOfDigits = 0
 
