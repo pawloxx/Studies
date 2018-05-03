@@ -1,4 +1,4 @@
-persons = ['Elizabeth', 'Steven@sales.mycompany.com', 'Sebasstian', 'Margaret', 'Svetlana@mycompany.eu', 'Raphael']
+persons = ['Elizabeth', 'Tomasz', 'Steven@sales.mycompany.com', 'Sebasstian', 'Margaret', 'Svetlana@mycompany.eu', 'Raphael']
 
 domain = 'mycompany.com'
 
