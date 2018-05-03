@@ -25,6 +25,17 @@ slowa = 'United Space Alliance: This company provides major support to NASA for'
         'the application is developed faster, and unit testing each piece is easier'
 
 ##print(slowa.split(' '))
-listaSlow = slowa.split(' ')
+listOfWords = slowa.replace('\n', ' ').split(' ')
+wordLength = 6
+i = 0
+shortWords = 0
+longWords = 0
+while i < len(listOfWords):
+        if len(listOfWords[i]) > wordLength:
+                longWords += 1
+        else:
+                shortWords += 1
 
-print(listaSlow)
+        i += 1
+print("Words shorter than ", wordLength, ":", shortWords)
+print("Words longer than ", wordLength, ":", longWords)
