@@ -10,7 +10,7 @@ Ciąg Fibonacciego to ciąg rozpoczynający się od 0 i 1 a każda kolejna liczb
 '''
 
 
-fibIter = 6
+fibIter = 20
 a1 = 0
 a2 = 1
 a3 = 0
