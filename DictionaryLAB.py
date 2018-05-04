@@ -30,4 +30,4 @@ chanels.update(chanelsUpdate)
 
 print(chanels.keys())
 print(chanels.pop('Email'))
-print(chanels)
+print(chanels.items())
