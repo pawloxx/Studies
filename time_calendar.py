@@ -36,4 +36,4 @@ print('Leap days 2000-2017', calendar.leapdays(2000, 2017))
 print('Leap days 2017-2020', calendar.leapdays(2000, 2020))
 print('Leap days 2020-2021', calendar.leapdays(2000, 2021)) # zwraca ilość dni prestępnych w podanym zakresie lat
 
-print(calendar.calendar(2018))
+print(calendar.calendar(2022))
