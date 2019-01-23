@@ -14,6 +14,8 @@ tekst = "Industrial Light & Magic: In this case, you find Python" \
         "    language, even if the system is written in a language such as" \
         "    C/C++. It turns out that Python can successfully interact with" \
         "    these other languages in situations in which some languages can’t."
+
+
 listaTekst = tekst.split()
 slownikWystapien = {} #tworzę pusty słownik do którego będzie wrzucany klucz w postaci: słowo:ilość wystąpień w tekście
 for slowo in listaTekst:
