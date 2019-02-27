@@ -8,3 +8,4 @@ def kostka(x):
         inoroz = ("t" or "tak") in input().lower()
 
 kostka(100)
+
